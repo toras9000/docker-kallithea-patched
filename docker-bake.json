@@ -7,7 +7,7 @@
       "args":
       {
         "KALLITHEA_VER": "0.7.0",
-        "KALLITHEA_REV": "511b20a6475d"
+        "KALLITHEA_REV": "2e1059de6751"
       },
       "platforms":
       [
@@ -17,8 +17,8 @@
       ],
       "tags":
       [
-        "toras9000/kallithea-mp:0.7.0-patch2",
-        "toras9000/kallithea-mp:0.7.0-patch-511b20a6475d"
+        "toras9000/kallithea-mp:0.7.0-patch3",
+        "toras9000/kallithea-mp:0.7.0-patch-2e1059de6751"
       ]
     }
   }

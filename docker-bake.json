@@ -1,0 +1,25 @@
+{
+  "target":
+  {
+    "kallithea":
+    {
+      "context": "./build",
+      "args":
+      {
+        "KALLITHEA_VER": "0.7.0",
+        "KALLITHEA_REV": "ed117efc9ae9"
+      },
+      "platforms":
+      [
+        "linux/amd64",
+        "linux/arm64",
+        "linux/arm/v7"
+      ],
+      "tags":
+      [
+        "toras9000/kallithea-mp:0.7.0-patch1",
+        "toras9000/kallithea-mp:0.7.0-patch-ed117efc9ae9"
+      ]
+    }
+  }
+}
